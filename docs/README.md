@@ -6,4 +6,4 @@ Documentation is in progress, please come back later
 
 ### Copyright
 
-This project was made by TRCloud Studio & XiaoNetwork
+This project was made by TRCloud Studio & XiaoNetwork Projects

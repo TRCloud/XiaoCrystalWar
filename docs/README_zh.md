@@ -6,4 +6,4 @@
 
 ### 版权相关
 
-本项目由 TRCloud Studio 制作
+This project was made by TRCloud Studio & XiaoNetwork Projects
